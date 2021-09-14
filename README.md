@@ -1,4 +1,4 @@
 # CryptX-Chat
 CryptX Chat... cryptography chat... to be released...
 
-![image](https://user-images.githubusercontent.com/9215219/132507148-2afc6ef8-6012-4637-a65e-c92e39e22f7a.png)
+![image](https://user-images.githubusercontent.com/9215219/133198460-324123a2-d53b-41d6-9dc8-63110112a12e.png)
